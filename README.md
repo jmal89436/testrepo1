@@ -1,2 +1,3 @@
 # testrepo1
-This is test editing
+## Editing the file.
+This is a markdown file in this repository. 
